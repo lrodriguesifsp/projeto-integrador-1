@@ -1,7 +1,9 @@
-# projeto-integrador-1
 
+# Projeto Integrador 1
 
+## Configuração do Git
 
-git config --global user.name "julliadominique"
+git config --global user.name "Meu Nome"
+git config --global user.email "meu-email@ifsp.edu.br"
 
-git config --global user.email "jullia.dominique0@gmail.com"
+*Os comandos devem ser executados em um terminal CMD.
