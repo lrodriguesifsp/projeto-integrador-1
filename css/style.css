@@ -3,17 +3,11 @@ body {
     text-align: center;
 }
 
-
-body {
-    text-align: center;
-}
 p {
     margin: 50px;
-    text-decoration-color: black; }
-P {
-    border-color: blue;
-
+    text-decoration-color: rgb(165, 36, 36);
 }
+
 h1 {
     font-weight: 400;
 }
