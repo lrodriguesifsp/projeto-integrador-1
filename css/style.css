@@ -3,11 +3,17 @@ body {
     text-align: center;
 }
 
+
+body {
+    
+    text-align: justify;
+    margin: 20px 20px 20px 20px;
+    border-radius: 20px;
+    border-color: blue;
+
+}
 p {
     margin: 50px;
-    text-decoration-color: rgb(165, 36, 36);
-}
+    text-decoration-color: rgb(0, 0, 0); }
+ 
 
-h1 {
-    font-weight: 400;
-}
