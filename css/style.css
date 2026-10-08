@@ -6,16 +6,10 @@ body {
 
 body {
     text-align: center;
+    
 }
 p {
     margin: 50px;
-    text-decoration-color: black; }
-P {
-    border-color: blue;
-<<<<<<< HEAD
-    color: brown;
-    
-=======
+    text-decoration-color: rgb(165, 36, 36); }
+ 
 
->>>>>>> 00a0f2e541af15f3ccaff273ba8e87e6114af609
-}
