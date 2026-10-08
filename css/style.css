@@ -1,11 +1,17 @@
 body {
     background-color: lightblue;
+    text-align: center;
 }
 
+<<<<<<< HEAD
 body {
     text-align: center;
 }
 p {
     margin: 50px;
     text-decoration-color: black; 
+=======
+hr {
+    border-color: blue;
+>>>>>>> 51a45c4db09836930f482328ecec9527fb0b3960
 }
