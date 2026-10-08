@@ -1,5 +1,8 @@
 body {
     background-color: lightblue;
+    text-align: center;
 }
-body {
-    text-align: center;}
+
+hr {
+    border-color: blue;
+}
